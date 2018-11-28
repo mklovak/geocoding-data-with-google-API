@@ -79,10 +79,6 @@ myData = [
 ```
 Northeastern University, 360 Huntington Avenue, Boston, MA 02115, USA 42.3396998 -71.08975
 Bradley University, 1501 West Bradley Avenue, Peoria, IL 61625, USA 40.6963857 -89.6160811
-.
-.
-.
-
 
 2 records written to where.js
 Open airports.html to view the data in a browser
