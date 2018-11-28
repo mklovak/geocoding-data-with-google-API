@@ -1,11 +1,11 @@
-General task will involve:
+## Task:
 - use Google Geocoding API to read some user-entered geographic locations of
 airport names (later we will call it just "data")
 - storing and retrieving (when needed) data using SQLte Database
 - placing (visualizing) data on a Google Map (so it can be viewed in a browser)
 
 
-Notes:
+## Notes:
 *provided solution was tested only on Ubuntu Linux
 ** you will need SQLite browser to view and modify the database that will be generated
 *** in order to run scripts, you need to register your own project and obtain your own API key grom Google
@@ -17,7 +17,7 @@ where Dr. Chuck was visualising list of Universities on Google Map
 
 
 
-Solution:
+## Solution:
 
 ================    First phase (airports.txt, script geo-load.py and geo-coding.sqlite):   ================
 
