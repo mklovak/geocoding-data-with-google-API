@@ -7,7 +7,7 @@ import json
 
 # Google Places API key and URL
 # key is personal, do not publish it
-api_key = 'AIzaSyBrpDDqFMG87-o9kpkx8oCQUUUgIWQmcWE'
+api_key = YOUR OWN API KEY
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 
 # Connect to database and create table if not exist
