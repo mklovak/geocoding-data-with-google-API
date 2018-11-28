@@ -72,10 +72,6 @@ myData = [
 [32.778949,35.019648, 'Technion/ Sports Building, Haifa'],
 [33.1561058,131.826132, 'Japan, 〒875-0002 Ōita-ken, Usuki-shi, Shitanoe, 1232−2 ＵＭＤ'],]
 ];
-.
-.
-.
-
 ```
 
 ** When you run script geo-dump.py, in case of success, in the console you will see something like that:
