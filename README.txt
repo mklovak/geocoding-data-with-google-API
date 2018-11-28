@@ -61,7 +61,7 @@ the geocoding API for each run.
 
 ================    Second phase (script geo-dump.py and where-geo.js):  ================
 
-    - reads just created database geo-coding.sqlite and writes tile file (where-geo.js) with the location, latitude,
+    - reads just created database geo-coding.sqlite and writes to .js file (where-geo.js) with the location, latitude,
     and longitude in the form of executable JavaScript code.
 
 *Example of written data inside where-geo.js:
