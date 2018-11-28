@@ -39,7 +39,7 @@ Found in database:  Cherkasy International Airport
 Found in database:  Chernivtsi International Airport
 
 Resolving Dnipropetrovsk International Airport
-Retrieving https://maps.googleapis.com/maps/api/place/textsearch/json?query=Dnipropetrovsk+International+Airport&key=AIzaSyBrpDDqFMG87-o9kpkx8oCQUUUgIWQmcWE
+Retrieving https://maps.googleapis.com/maps/api/place/textsearch/json?query=Dnipropetrovsk+International+Airport&key=YOUR OWN API KEY
 Retrieved 1731 characters {    "results" : [
 {u'status': u'OK', u'results': ... }
 .
